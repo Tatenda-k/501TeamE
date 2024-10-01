@@ -8,6 +8,8 @@ namespace Exam1
     public delegate void UpdateBookMark(int x, bool add);
     //implemented in controller
     public delegate void ReadFromCloud();
+    //called in the lirary view
+    public delegate void OpenBook();
     public static class Program
     {
         /// <summary>
@@ -26,7 +28,7 @@ namespace Exam1
 
 
 
-            Application.Run(new LibraryView(m, c.ReadFromCloud));
+            Application.Run(new LibraryView(m, c.ReadFromCloud,c.OpenBook));
         }
     }
 }

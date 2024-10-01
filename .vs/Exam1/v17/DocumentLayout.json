@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\taten\\source\\repos\\Exam1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Exam1",
+              "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Exam1.csproj",
+              "RelativeDocumentMoniker": "Exam1.csproj",
+              "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\Exam1.csproj",
+              "RelativeToolTip": "Exam1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T19:40:31.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BookView.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\BookView.cs",
               "RelativeDocumentMoniker": "BookView.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LibraryView.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\LibraryView.cs",
               "RelativeDocumentMoniker": "LibraryView.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Controller.cs",
               "RelativeDocumentMoniker": "Controller.cs",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Model.cs",
               "RelativeDocumentMoniker": "Model.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
