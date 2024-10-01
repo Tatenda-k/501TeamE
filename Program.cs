@@ -1,6 +1,14 @@
 namespace Exam1
 {
-    internal static class Program
+    //implemented in controller
+    public delegate void MovePage(int x);
+    //implemented in bookview
+    public delegate void UpdatePage(int x);
+    //implemented in bookview
+    public delegate void UpdateBookMark(int x, bool add);
+    //implemented in controller
+    public delegate void ReadFromCloud();
+    public static class Program
     {
         /// <summary>
         ///  The main entry point for the application.
@@ -11,7 +19,14 @@ namespace Exam1
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+
+            Model m = new Model();
+            //BookView bv = new BookView();
+            Controller c = new Controller(m);
+
+
+
+            Application.Run(new LibraryView(m, c.ReadFromCloud));
         }
     }
 }

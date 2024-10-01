@@ -1,6 +1,6 @@
 ﻿namespace Exam1
 {
-    partial class Form1
+    partial class LibraryView
     {
         /// <summary>
         ///  Required designer variable.
