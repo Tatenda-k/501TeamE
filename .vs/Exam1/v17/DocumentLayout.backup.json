@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\taten\\source\\repos\\Exam1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:bookview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\users\\taten\\source\\repos\\exam1\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +54,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookView.cs",
-              "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\BookView.cs",
-              "RelativeDocumentMoniker": "BookView.cs",
-              "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\BookView.cs",
-              "RelativeToolTip": "BookView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BookViewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\BookViewForm.cs",
+              "RelativeDocumentMoniker": "BookViewForm.cs",
+              "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\BookViewForm.cs [Design]",
+              "RelativeToolTip": "BookViewForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T20:16:43.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T23:30:15.347Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LibraryView.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\LibraryView.cs",
               "RelativeDocumentMoniker": "LibraryView.cs",
               "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\LibraryView.cs",
               "RelativeToolTip": "LibraryView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T19:59:14.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T19:52:23.141Z",
               "EditorCaption": ""
@@ -91,14 +98,53 @@
               "RelativeDocumentMoniker": "Controller.cs",
               "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\Controller.cs",
               "RelativeToolTip": "Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T19:42:20.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:38:26.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookView.cs",
+              "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\BookView.cs",
+              "RelativeDocumentMoniker": "BookView.cs",
+              "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\BookView.cs",
+              "RelativeToolTip": "BookView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T20:16:43.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam1",
+              "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Exam1.csproj",
+              "RelativeDocumentMoniker": "Exam1.csproj",
+              "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\Exam1.csproj",
+              "RelativeToolTip": "Exam1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-01T19:40:31.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Model.cs",
               "RelativeDocumentMoniker": "Model.cs",
@@ -107,19 +153,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-01T19:40:54.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\taten\\source\\repos\\Exam1\\Book.cs",
-              "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\taten\\source\\repos\\Exam1\\Book.cs",
-              "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:38:26.895Z",
               "EditorCaption": ""
             }
           ]

@@ -34,7 +34,13 @@ namespace Exam1
         /// <param name="x"> the page to move to</param>
         public void MoveToPage(int x)
         {
+            if(x > curBook.totalPages || x < 1)
+            {
+                MessageBox.Show("Out of bounds");
+                return;
+            }
             curBook.GoToPage(x);
+            updatePage(x);
 
         }
         public  void ReadFromCloud()

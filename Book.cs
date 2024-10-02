@@ -8,9 +8,9 @@ namespace Exam1
 {
     public class Book
     {
-        private int totalPages;
-        private string title;
-        private string author;
+        public int totalPages;
+        public string title;
+        public string author;
         public HashSet<int> bookmarks;
         public int curPage { get; set; }
 
