@@ -11,7 +11,7 @@ namespace Exam1
         private int totalPages;
         private string title;
         private string author;
-        private HashSet<int> bookmarks;
+        public HashSet<int> bookmarks;
         public int curPage { get; set; }
 
         public Book(int totalPages, string title, string author,int curPage)

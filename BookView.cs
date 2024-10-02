@@ -9,10 +9,17 @@ namespace Exam1
     public class BookView
     {
 
-        
 
-        public  BookView(Book book)
+        private MovePage movePage;
+        private AddBookMark addBm;
+        private Book book;
+
+        public  BookView(Book book, MovePage move,AddBookMark addbm)
         {
+            this.book = book;
+            this.movePage = move;
+            this.addBm = addbm;
+
 
         }
         /// <summary>
@@ -24,7 +31,7 @@ namespace Exam1
 
         }
         /// <summary>
-        /// 
+        /// toggle the checkmark for bookmartk
         /// </summary>
         /// <param name="x"></param>
         /// <param name="add">whether book mark should be added</param>

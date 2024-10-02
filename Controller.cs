@@ -34,12 +34,18 @@ namespace Exam1
         /// <param name="x"> the page to move to</param>
         public void MoveToPage(int x)
         {
+            curBook.GoToPage(x);
 
         }
         public  void ReadFromCloud()
         {
 
         }
+        public void AddBookMark(int x, bool add)
+        {
+            curBook.ChangeBookMark(x, add);
+        }
+
         /// <summary>
         /// sets the current book
         /// </summary>
