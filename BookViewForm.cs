@@ -15,14 +15,12 @@ namespace Exam1
         private MovePage movePage;
         private ChangeBookMark addBm;
         private Book book;
-        private CloseBook close;
 
-        public BookViewForm(Book book, MovePage move, ChangeBookMark addbm, CloseBook close)
+        public BookViewForm(Book book, MovePage move, ChangeBookMark addbm)
         {
             this.book = book;
             this.movePage = move;
             this.addBm = addbm;
-            this.close = close;
             InitializeComponent();
             Title.Text = book.title;
             Author.Text = book.author;

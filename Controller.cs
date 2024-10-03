@@ -68,14 +68,9 @@ namespace Exam1
                     curBook = b;
                 }
             }
-            BookViewForm bv = new BookViewForm(curBook, MoveToPage, ChangeBookMark, CloseBook);
+            BookViewForm bv = new BookViewForm(curBook, MoveToPage, ChangeBookMark);
             this.updatePage = bv.UpdatePage;
             bv.Show();
-        }
-
-        public void CloseBook()
-        {
-
         }
     }    
 }

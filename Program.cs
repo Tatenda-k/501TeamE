@@ -13,8 +13,6 @@ namespace Exam1
     public delegate void ReadFromCloud();
     //called in the lirary view
     public delegate void OpenBook(string s);
-    //called in the bookview
-    public delegate void CloseBook();
     //called in the controller
     public delegate void UpdateLibrary(List<string> list);
 

@@ -23,9 +23,5 @@ namespace Exam1
             CloudLibrary.Add(new Book(200, "Kylie's Book", "Kylie Phommasack", 1));
             CloudLibrary.Add(new Book(300, "Kaitlyn's Book", "Kaitlyn Pritchard", 1));
         }
-
-
-        //OpenBook
-        //CloseBook
     }
 }
