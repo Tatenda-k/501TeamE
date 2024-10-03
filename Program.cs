@@ -2,7 +2,7 @@ namespace Exam1
 {
 
     //implemented in controller
-    public delegate void AddBookMark(int x, bool add);
+    public delegate void ChangeBookMark(int x, bool add);
     //implemented in controller
     public delegate void MovePage(int x);
     //implemented in bookview

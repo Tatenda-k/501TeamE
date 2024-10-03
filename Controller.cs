@@ -12,7 +12,6 @@ namespace Exam1
         private UpdateBookMark? updateBookMark;
         private UpdateLibrary? UpdateLibrary;
         private Model m;
-
         private Book? curBook;
         private int curPage;
 
@@ -70,21 +69,13 @@ namespace Exam1
                 }
             }
             BookViewForm bv = new BookViewForm(curBook, MoveToPage, ChangeBookMark, CloseBook);
+            this.updatePage = bv.UpdatePage;
+            bv.Show();
         }
 
         public void CloseBook()
         {
 
         }
-
-       
-
-
-
-
-
-
-    }
-
-    
+    }    
 }

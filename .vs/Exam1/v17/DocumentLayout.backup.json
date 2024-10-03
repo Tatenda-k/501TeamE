@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:bookviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|c:\\mac\\home\\documents\\cis 501\\exam\\exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:exam1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CED190F1-D157-458A-B747-9856991F52AE}|Exam1.csproj|solutionrelative:libraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:52:23.141Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -83,31 +66,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:13:54.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:11:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LibraryView.cs [Design]",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\LibraryView.cs",
               "RelativeDocumentMoniker": "LibraryView.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\LibraryView.cs [Design]",
               "RelativeToolTip": "LibraryView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T03:55:57.786Z"
+              "WhenOpened": "2024-10-03T03:55:57.786Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BookViewForm.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\BookViewForm.cs",
               "RelativeDocumentMoniker": "BookViewForm.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\BookViewForm.cs",
               "RelativeToolTip": "BookViewForm.cs",
-              "ViewState": "AgIAAAYAAAAAIjMzMzMLwBcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T03:55:38.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BookViewForm.cs [Design]",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\BookViewForm.cs",
               "RelativeDocumentMoniker": "BookViewForm.cs",
@@ -119,63 +129,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LibraryView.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\LibraryView.cs",
               "RelativeDocumentMoniker": "LibraryView.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\LibraryView.cs",
               "RelativeToolTip": "LibraryView.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:59:14.127Z"
+              "WhenOpened": "2024-10-01T19:59:14.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Controller.cs",
               "RelativeDocumentMoniker": "Controller.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Controller.cs",
               "RelativeToolTip": "Controller.cs",
-              "ViewState": "AgIAAAkAAADAy8zMzMwfwEcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAABAWmZmZmYNwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:42:20.932Z"
+              "WhenOpened": "2024-10-01T19:42:20.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Book.cs",
-              "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Book.cs",
-              "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAAAYAAACIMzMzM/MmwCYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:38:26.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Exam1.csproj",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Exam1.csproj",
-              "RelativeDocumentMoniker": "Exam1.csproj",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Exam1.csproj",
-              "RelativeToolTip": "Exam1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-01T19:40:31.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Model.cs",
               "RelativeDocumentMoniker": "Model.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Model.cs",
               "RelativeToolTip": "Model.cs",
-              "ViewState": "AgIAAAcAAADAbmZmZmYEwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAA4AgAAAAARwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T19:40:54.065Z"
+              "WhenOpened": "2024-10-01T19:40:54.065Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -11,7 +11,7 @@ namespace Exam1
         public int totalPages;
         public string title;
         public string author;
-        public HashSet<int> bookmarks;
+        public HashSet<int> bookmarks = new HashSet<int>();
         public int curPage { get; set; }
 
         public Book(int totalPages, string title, string author,int curPage)
@@ -19,26 +19,24 @@ namespace Exam1
             this.totalPages = totalPages;
             this.title = title;
             this.author = author;
-            this.curPage = curPage;
-            
-
+            this.curPage = curPage;  
         }
         
         public void ChangeBookMark(int x, bool add)
         {
-            if(add == true)
+            if (add == true)
             {
                 bookmarks.Add(x);
             }
             else
             {
                 bookmarks.Remove(x);
-            }
-            
+            }    
         }
+
         public void FlipPage(int x)
         {
-            if(x < 0)
+            if (x < 0)
             {
                 curPage -= 1;
             }
@@ -46,12 +44,11 @@ namespace Exam1
             {
                 curPage += 1;
             }
-
         }
+
         public void GoToPage(int x)
         {
             curPage = x;
-
         }
     }
 }

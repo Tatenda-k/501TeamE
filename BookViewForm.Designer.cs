@@ -47,7 +47,6 @@
             Title.Size = new Size(121, 32);
             Title.TabIndex = 0;
             Title.Text = "Book Title";
-            Title.Click += label1_Click;
             // 
             // Page
             // 
@@ -68,7 +67,6 @@
             Author.Size = new Size(87, 32);
             Author.TabIndex = 2;
             Author.Text = "Author";
-            Author.Click += Author_Click;
             // 
             // textBox1
             // 
@@ -77,7 +75,6 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(201, 39);
             textBox1.TabIndex = 3;
-            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // checkBox1
             // 
@@ -140,7 +137,6 @@
             Margin = new Padding(5);
             Name = "BookViewForm";
             Text = "BookViewForm";
-            Load += BookViewForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }
