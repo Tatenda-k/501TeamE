@@ -16,16 +16,13 @@ namespace Exam1
 
         public Controller(Model m )
         {
-            this.m = m;
-            
-          
-
+            this.m = m;                    
         }
+
         public void SetDelegates(UpdatePage updatep, UpdateBookMark updatebm)
         {
             this.updatePage = updatep;
-            this.updateBookMark = updatebm;
-            
+            this.updateBookMark = updatebm;           
         }
 
         /// <summary>
@@ -41,12 +38,14 @@ namespace Exam1
             }
             curBook.GoToPage(x);
             updatePage(x);
-
         }
+
         public  void ReadFromCloud()
         {
-
+            m.LoadInBooksFromTxt();
+            UpdateLibrary();
         }
+
         public void AddBookMark(int x, bool add)
         {
             curBook.ChangeBookMark(x, add);
@@ -55,11 +54,15 @@ namespace Exam1
         /// <summary>
         /// sets the current book
         /// </summary>
-        public void OpenBook(Book book)
+        public void OpenBook(string book)
         {
-            curBook = book;
-            
-
+            foreach (Book b in m.CloudLibrary)
+            {
+                if (b.title == book)
+                {
+                    curBook = b;
+                }
+            }           
         }
 
        

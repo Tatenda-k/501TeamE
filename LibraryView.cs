@@ -6,6 +6,8 @@ namespace Exam1
         private ReadFromCloud synchronize;
         private OpenBook openBook;
 
+        private string bookName;
+
         public LibraryView(Model m, ReadFromCloud synchronize, OpenBook open)
         {
             this.synchronize = synchronize;
@@ -13,22 +15,27 @@ namespace Exam1
 
 
             InitializeComponent();
-
+            synchronize();
         }
 
-        public void SynchronizeLibrary()
+        public void SynchronizeLibrary(List<string> list)
         {
-            synchronize();
+            listBox1.Items.Clear();
+            foreach (string item in list)
+            {
+                listBox1.Items.Add(item);
+            }
         }
 
         private void SelectedIndexChanges(object sender, EventArgs e)
         {
             button1.Enabled = true;
+            bookName = listBox1.SelectedItem.ToString();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            openBook();
+            openBook(bookName);
         }
     }
 }

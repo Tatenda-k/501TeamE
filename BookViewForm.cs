@@ -26,10 +26,8 @@ namespace Exam1
             this.addBm = addbm;
             this.close = close;
             InitializeComponent();
-
-
-
         }
+
         /// <summary>
         /// change the display to page x 
         /// </summary>
@@ -38,6 +36,7 @@ namespace Exam1
         {
 
         }
+
         /// <summary>
         /// toggle the checkmark for bookmartk
         /// </summary>

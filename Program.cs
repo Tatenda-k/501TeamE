@@ -12,11 +12,11 @@ namespace Exam1
     //implemented in controller
     public delegate void ReadFromCloud();
     //called in the lirary view
-    public delegate void OpenBook();
+    public delegate void OpenBook(string s);
     //called in the bookview
     public delegate void CloseBook();
     //called in the controller
-    public delegate void UpdateLibrary();
+    public delegate void UpdateLibrary(List<string> list);
 
     public static class Program
     {
@@ -33,8 +33,6 @@ namespace Exam1
             Model m = new Model();
             //BookView bv = new BookView();
             Controller c = new Controller(m);
-
-
 
             Application.Run(new LibraryView(m, c.ReadFromCloud, c.OpenBook));
         }

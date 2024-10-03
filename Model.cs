@@ -9,11 +9,19 @@ namespace Exam1
     public class Model
     {
 
-        List<Book> CloudLibrary;
+        public List<Book> CloudLibrary;
 
         public Model()
         {
 
+        }
+
+        public void LoadInBooksFromTxt()
+        {
+            CloudLibrary.Add(new Book(100, "Amala's Book", "Amala John", 1));
+            CloudLibrary.Add(new Book(250, "Tatenda's Book", "Tatenda Sebekanja", 1));
+            CloudLibrary.Add(new Book(200, "Kylie's Book", "Kylie Phommasack", 1));
+            CloudLibrary.Add(new Book(300, "Kaitlyn's Book", "Kaitlyn Pritchard", 1));
         }
 
 

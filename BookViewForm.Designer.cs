@@ -65,9 +65,9 @@
             Author.Location = new Point(499, 136);
             Author.Margin = new Padding(5, 0, 5, 0);
             Author.Name = "Author";
-            Author.Size = new Size(78, 32);
+            Author.Size = new Size(87, 32);
             Author.TabIndex = 2;
-            Author.Text = "label3";
+            Author.Text = "Author";
             Author.Click += Author_Click;
             // 
             // textBox1
@@ -85,9 +85,9 @@
             checkBox1.Location = new Point(499, 419);
             checkBox1.Margin = new Padding(5, 5, 5, 5);
             checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(159, 36);
+            checkBox1.Size = new Size(211, 36);
             checkBox1.TabIndex = 4;
-            checkBox1.Text = "checkBox1";
+            checkBox1.Text = "Bookmark Page";
             checkBox1.UseVisualStyleBackColor = true;
             checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
@@ -98,7 +98,7 @@
             button1.Name = "button1";
             button1.Size = new Size(153, 46);
             button1.TabIndex = 5;
-            button1.Text = "button1";
+            button1.Text = "<";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
@@ -109,7 +109,7 @@
             button2.Name = "button2";
             button2.Size = new Size(153, 46);
             button2.TabIndex = 6;
-            button2.Text = "button2";
+            button2.Text = ">";
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
@@ -120,7 +120,7 @@
             button3.Name = "button3";
             button3.Size = new Size(153, 46);
             button3.TabIndex = 7;
-            button3.Text = "button3";
+            button3.Text = "Search";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
             // 
