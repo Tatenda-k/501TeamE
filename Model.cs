@@ -9,7 +9,7 @@ namespace Exam1
     public class Model
     {
 
-        public List<Book> CloudLibrary;
+        public List<Book> CloudLibrary = new List<Book>();
 
         public Model()
         {

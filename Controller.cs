@@ -10,19 +10,20 @@ namespace Exam1
     {
         private UpdatePage? updatePage;
         private UpdateBookMark? updateBookMark;
+        private UpdateLibrary? UpdateLibrary;
         private Model m;
 
         private Book? curBook;
+        private int curPage;
 
-        public Controller(Model m )
+        public Controller(Model m)
         {
             this.m = m;                    
         }
 
-        public void SetDelegates(UpdatePage updatep, UpdateBookMark updatebm)
+        public void SetDelegates(UpdateLibrary updateLibrary)
         {
-            this.updatePage = updatep;
-            this.updateBookMark = updatebm;           
+            this.UpdateLibrary = updateLibrary; 
         }
 
         /// <summary>
@@ -43,10 +44,15 @@ namespace Exam1
         public  void ReadFromCloud()
         {
             m.LoadInBooksFromTxt();
-            UpdateLibrary();
+            List<string> list = new List<string>();
+            foreach (Book b in m.CloudLibrary)
+            {
+                list.Add(b.title);
+            }    
+            UpdateLibrary(list);
         }
 
-        public void AddBookMark(int x, bool add)
+        public void ChangeBookMark(int x, bool add)
         {
             curBook.ChangeBookMark(x, add);
         }
@@ -62,7 +68,13 @@ namespace Exam1
                 {
                     curBook = b;
                 }
-            }           
+            }
+            BookViewForm bv = new BookViewForm(curBook, MoveToPage, ChangeBookMark, CloseBook);
+        }
+
+        public void CloseBook()
+        {
+
         }
 
        

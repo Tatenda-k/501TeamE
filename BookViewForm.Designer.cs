@@ -73,7 +73,7 @@
             // textBox1
             // 
             textBox1.Location = new Point(499, 286);
-            textBox1.Margin = new Padding(5, 5, 5, 5);
+            textBox1.Margin = new Padding(5);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(201, 39);
             textBox1.TabIndex = 3;
@@ -83,7 +83,7 @@
             // 
             checkBox1.AutoSize = true;
             checkBox1.Location = new Point(499, 419);
-            checkBox1.Margin = new Padding(5, 5, 5, 5);
+            checkBox1.Margin = new Padding(5);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(211, 36);
             checkBox1.TabIndex = 4;
@@ -94,7 +94,7 @@
             // button1
             // 
             button1.Location = new Point(146, 534);
-            button1.Margin = new Padding(5, 5, 5, 5);
+            button1.Margin = new Padding(5);
             button1.Name = "button1";
             button1.Size = new Size(153, 46);
             button1.TabIndex = 5;
@@ -104,8 +104,8 @@
             // 
             // button2
             // 
-            button2.Location = new Point(1055, 520);
-            button2.Margin = new Padding(5, 5, 5, 5);
+            button2.Location = new Point(1001, 534);
+            button2.Margin = new Padding(5);
             button2.Name = "button2";
             button2.Size = new Size(153, 46);
             button2.TabIndex = 6;
@@ -116,7 +116,7 @@
             // button3
             // 
             button3.Location = new Point(804, 286);
-            button3.Margin = new Padding(5, 5, 5, 5);
+            button3.Margin = new Padding(5);
             button3.Name = "button3";
             button3.Size = new Size(153, 46);
             button3.TabIndex = 7;
@@ -137,7 +137,7 @@
             Controls.Add(Author);
             Controls.Add(Page);
             Controls.Add(Title);
-            Margin = new Padding(5, 5, 5, 5);
+            Margin = new Padding(5);
             Name = "BookViewForm";
             Text = "BookViewForm";
             Load += BookViewForm_Load;

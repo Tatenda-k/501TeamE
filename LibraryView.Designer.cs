@@ -71,6 +71,7 @@
             Controls.Add(label1);
             Name = "LibraryView";
             Text = "Form1";
+            Load += LibraryView_Load;
             ResumeLayout(false);
             PerformLayout();
         }

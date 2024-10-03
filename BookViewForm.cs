@@ -12,8 +12,6 @@ namespace Exam1
 {
     public partial class BookViewForm : Form
     {
-
-
         private MovePage movePage;
         private AddBookMark addBm;
         private Book book;

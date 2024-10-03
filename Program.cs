@@ -33,8 +33,9 @@ namespace Exam1
             Model m = new Model();
             //BookView bv = new BookView();
             Controller c = new Controller(m);
-
-            Application.Run(new LibraryView(m, c.ReadFromCloud, c.OpenBook));
+            LibraryView l = new LibraryView(m, c.ReadFromCloud, c.OpenBook);
+            c.SetDelegates(l.SynchronizeLibrary);
+            Application.Run(l);
         }
     }
 }
