@@ -94,5 +94,10 @@ namespace Exam1
             bool x = int.TryParse(textBox1.Text.ToString(), out p);
             movePage(p);
         }
+
+        private void BookViewForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

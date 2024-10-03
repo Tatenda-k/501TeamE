@@ -36,7 +36,7 @@ namespace Exam1
 
 
 
-            Application.Run(new LibraryView(m, c.ReadFromCloud,c.OpenBook));
+            Application.Run(new LibraryView(m, c.ReadFromCloud, c.OpenBook));
         }
     }
 }

@@ -28,12 +28,57 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            label1 = new Label();
+            listBox1 = new ListBox();
+            button1 = new Button();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(317, 41);
+            label1.Name = "label1";
+            label1.Size = new Size(146, 32);
+            label1.TabIndex = 0;
+            label1.Text = "Book Library";
+            // 
+            // listBox1
+            // 
+            listBox1.FormattingEnabled = true;
+            listBox1.Location = new Point(272, 121);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(240, 164);
+            listBox1.TabIndex = 1;
+            // 
+            // button1
+            // 
+            button1.Enabled = false;
+            button1.Location = new Point(317, 337);
+            button1.Name = "button1";
+            button1.Size = new Size(150, 46);
+            button1.TabIndex = 2;
+            button1.Text = "Open Book";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // LibraryView
+            // 
+            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(800, 450);
+            Controls.Add(button1);
+            Controls.Add(listBox1);
+            Controls.Add(label1);
+            Name = "LibraryView";
+            Text = "Form1";
+            ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label label1;
+        private ListBox listBox1;
+        private Button button1;
     }
 }

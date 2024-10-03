@@ -41,9 +41,10 @@
             // Title
             // 
             Title.AutoSize = true;
-            Title.Location = new Point(307, 35);
+            Title.Location = new Point(499, 56);
+            Title.Margin = new Padding(5, 0, 5, 0);
             Title.Name = "Title";
-            Title.Size = new Size(76, 20);
+            Title.Size = new Size(121, 32);
             Title.TabIndex = 0;
             Title.Text = "Book Title";
             Title.Click += label1_Click;
@@ -51,36 +52,40 @@
             // Page
             // 
             Page.AutoSize = true;
-            Page.Location = new Point(185, 179);
+            Page.Location = new Point(301, 286);
+            Page.Margin = new Padding(5, 0, 5, 0);
             Page.Name = "Page";
-            Page.Size = new Size(41, 20);
+            Page.Size = new Size(65, 32);
             Page.TabIndex = 1;
             Page.Text = "Page";
             // 
             // Author
             // 
             Author.AutoSize = true;
-            Author.Location = new Point(307, 85);
+            Author.Location = new Point(499, 136);
+            Author.Margin = new Padding(5, 0, 5, 0);
             Author.Name = "Author";
-            Author.Size = new Size(50, 20);
+            Author.Size = new Size(78, 32);
             Author.TabIndex = 2;
             Author.Text = "label3";
             Author.Click += Author_Click;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(307, 179);
+            textBox1.Location = new Point(499, 286);
+            textBox1.Margin = new Padding(5, 5, 5, 5);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(125, 27);
+            textBox1.Size = new Size(201, 39);
             textBox1.TabIndex = 3;
             textBox1.TextChanged += textBox1_TextChanged;
             // 
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(307, 262);
+            checkBox1.Location = new Point(499, 419);
+            checkBox1.Margin = new Padding(5, 5, 5, 5);
             checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(101, 24);
+            checkBox1.Size = new Size(159, 36);
             checkBox1.TabIndex = 4;
             checkBox1.Text = "checkBox1";
             checkBox1.UseVisualStyleBackColor = true;
@@ -88,9 +93,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(90, 334);
+            button1.Location = new Point(146, 534);
+            button1.Margin = new Padding(5, 5, 5, 5);
             button1.Name = "button1";
-            button1.Size = new Size(94, 29);
+            button1.Size = new Size(153, 46);
             button1.TabIndex = 5;
             button1.Text = "button1";
             button1.UseVisualStyleBackColor = true;
@@ -98,9 +104,10 @@
             // 
             // button2
             // 
-            button2.Location = new Point(649, 325);
+            button2.Location = new Point(1055, 520);
+            button2.Margin = new Padding(5, 5, 5, 5);
             button2.Name = "button2";
-            button2.Size = new Size(94, 29);
+            button2.Size = new Size(153, 46);
             button2.TabIndex = 6;
             button2.Text = "button2";
             button2.UseVisualStyleBackColor = true;
@@ -108,9 +115,10 @@
             // 
             // button3
             // 
-            button3.Location = new Point(495, 179);
+            button3.Location = new Point(804, 286);
+            button3.Margin = new Padding(5, 5, 5, 5);
             button3.Name = "button3";
-            button3.Size = new Size(94, 29);
+            button3.Size = new Size(153, 46);
             button3.TabIndex = 7;
             button3.Text = "button3";
             button3.UseVisualStyleBackColor = true;
@@ -118,9 +126,9 @@
             // 
             // BookViewForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1300, 720);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
@@ -129,8 +137,10 @@
             Controls.Add(Author);
             Controls.Add(Page);
             Controls.Add(Title);
+            Margin = new Padding(5, 5, 5, 5);
             Name = "BookViewForm";
             Text = "BookViewForm";
+            Load += BookViewForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }

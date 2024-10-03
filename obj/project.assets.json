@@ -8,24 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\taten\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\kaitlynpritchard\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taten\\source\\repos\\Exam1\\Exam1.csproj",
+      "projectUniqueName": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Exam1.csproj",
       "projectName": "Exam1",
-      "projectPath": "C:\\Users\\taten\\source\\repos\\Exam1\\Exam1.csproj",
-      "packagesPath": "C:\\Users\\taten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taten\\source\\repos\\Exam1\\obj\\",
+      "projectPath": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\Exam1.csproj",
+      "packagesPath": "C:\\Users\\kaitlynpritchard\\.nuget\\packages\\",
+      "outputPath": "C:\\Mac\\Home\\Documents\\CIS 501\\Exam\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\taten\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\kaitlynpritchard\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
